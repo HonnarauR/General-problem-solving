@@ -1,5 +1,3 @@
-// const AmIPerfect=document.getElementById("AmIPerfect");
-// const shortenMe=document.getElementById("shortenMe");
 
 //EASY
 //1) Am I Perfect?
